@@ -111,8 +111,4 @@ Feel free to fork this repository and submit pull requests with improvements or 
 
 ---
 
-## Contact
-
-For any issues or suggestions, please contact [your email or GitHub profile link].
-
 Happy scraping! 🚀
