@@ -51,7 +51,7 @@ Before running the script, make sure you have the following installed:
 
 1. **Run the scraper**:
    ```bash
-   python scraper.py
+   python main.py
    ```
 
 2. **Output**:
